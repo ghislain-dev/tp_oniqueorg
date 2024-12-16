@@ -1,0 +1,21 @@
+*{
+   
+   background-color: bisque;
+    background-size:cover;
+  
+}
+#nav_princ{
+    width: 100px;
+   
+    background-image: none;
+}
+#img{
+    width: 200px;
+    justify-content: center;
+    align-items: center;
+}
+
+#logo{width: 200px;
+justify-content: center;
+align-items: center;
+}
